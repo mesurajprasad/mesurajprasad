@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Senior Systems Engineer currently working in Micron Technologies.
+- 👋 Hi, I’m a Lead Systems Engineer currently working in Micron Technologies.
 - 👀 I’m interested in Cloud Computing, Artificial Intelligence, Data Science, Ansible playbooks.
 - 🌱 I’m currently learning Deep Learning, Big Data, Spark, Tableau.
 - ⚽ In my free time, I like to paint, play badminton and read books.
